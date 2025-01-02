@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ewahealthcare",
-    "slug": "ewahealthcare",
+    "name": "Ewa Healthcare",
+    "slug": "ewa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.amrit_romana.ewahealthcare"
+      "package": "com.nitianbit.ewahealthcare"
     },
     "web": {
       "bundler": "metro",
@@ -43,8 +43,9 @@
         "origin": false
       },
       "eas": {
-        "projectId": "09520501-291d-4fc1-ae1e-bd620b38cfcb"
+        "projectId": "34b90359-6f83-4adb-b100-f89e1b79196b"
       }
-    }
+    },
+    "owner": "nitianbit"
   }
 }
